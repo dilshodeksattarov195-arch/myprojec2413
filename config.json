@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderuetch",
+        "uuid": 9519285,
+        "checksum": "tqdqw"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
